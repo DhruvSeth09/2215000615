@@ -24,4 +24,5 @@ Trending
 ![Trending](<Screenshot 2025-04-18 131810.png>)
 
 Feed
-![Feed](<Screenshot 2025-04-18 131823-1.png>)
+![Feed](https://github.com/user-attachments/assets/3ea9a87e-cd1e-4849-95e3-964da7ddea61)
+
