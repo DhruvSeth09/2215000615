@@ -24,4 +24,4 @@ Trending
 ![Trending](<Screenshot 2025-04-18 131810.png>)
 
 Feed
-![Feed](<Screenshot 2025-04-18 131236.png>)
+![Feed](<Screenshot 2025-04-18 131823-1.png>)
